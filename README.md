@@ -2,9 +2,9 @@
 CIS1702 – Coursework 2 (Project 1)
 
 ## Overview
-This project is a menu-driven Inventory Management System developed using Python.
+This project is a menu driven Inventory Management System developed using Python.
 It allows users to manage inventory items by adding, viewing, searching, updating,
-and deleting records. All data is stored persistently using a JSON file so that
+and deleting records. All data is stored constantly using a JSON file so that
 inventory information is retained between program runs.
 
 This system was created to meet the requirements of Project 1 and demonstrates
@@ -33,7 +33,7 @@ inventory_app/
     └── inventory.json
 
 ## Requirements
-- Python 3.8 or higher
+- Python 3.8 and above
 - No external libraries required
 
 ## How to Run
