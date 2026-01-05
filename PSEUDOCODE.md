@@ -1,3 +1,5 @@
+# PSEUDOCODE, Updated & Developed to meet Criteria.
+
 BEGIN PROGRAM
     LOAD inventory data from JSON file
     WHILE user has not chosen to exit DO
